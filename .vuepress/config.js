@@ -1,6 +1,6 @@
 module.exports = {
   "title": "dongr",
-  "description": "dongr blog",
+  "description": "",
   "dest": "public",
   "head": [
     [

@@ -13,7 +13,8 @@ heroImageStyle: {
   maxHeight: '200px',
   display: block,
   margin: '6rem auto 1.5rem',
-  borderRadius: '50%',
+  # 中间图片 圆形 or方形100%
+  borderRadius: '15%', 
   boxShadow: '0 5px 18px rgba(0,0,0,0.2)'
 }
 bgImageStyle: {
