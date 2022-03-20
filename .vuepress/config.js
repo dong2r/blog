@@ -25,6 +25,11 @@ module.exports = {
       }
     },
   "themeConfig": {
+    // 评论插件
+    valineConfig: {
+      appId: 'fM5yTY4veBeTkW5QazJGEjOa-gzGzoHsz',// your appId
+      appKey: 'UMzk4yMvVGQKsbdx0i61UMEz', // your appKey
+    },
     "nav": [
       {
         "text": "首页",
