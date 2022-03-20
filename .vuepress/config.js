@@ -1,6 +1,6 @@
 module.exports = {
-  "title": "",
-  "description": "",
+  "title": "dongr",
+  "description": "dongr blog",
   "dest": "public",
   "head": [
     [
@@ -19,6 +19,11 @@ module.exports = {
     ]
   ],
   "theme": "reco",
+    locales: {
+      '/': {
+        lang: 'zh-CN'
+      }
+    },
   "themeConfig": {
     "nav": [
       {

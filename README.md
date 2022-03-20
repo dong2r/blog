@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: 董同学
+heroText: 正是修行时。
 tagline: It is practicing.
 # heroImage: /hero.png
 # heroImageStyle: {
