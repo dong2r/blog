@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: 董同学
+tagline: It is practicing.
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',

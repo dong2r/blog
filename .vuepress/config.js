@@ -86,13 +86,13 @@ module.exports = {
         "link": "https://vuepress-theme-reco.recoluan.com"
       }
     ],
-    "logo": "/logo.png",
+    "logo": "/me.jpeg",
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
     "author": "董同学",
-    "authorAvatar": "/avatar.png",
-    "record": "xxxx",
+    "authorAvatar": "/me.jpeg",
+    "record": "🆙",
     "startYear": "2017"
   },
   "markdown": {
