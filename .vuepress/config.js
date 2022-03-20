@@ -22,17 +22,17 @@ module.exports = {
   "themeConfig": {
     "nav": [
       {
-        "text": "Home",
+        "text": "首页",
         "link": "/",
         "icon": "reco-home"
       },
       {
-        "text": "TimeLine",
+        "text": "时间线",
         "link": "/timeline/",
         "icon": "reco-date"
       },
       {
-        "text": "Docs",
+        "text": "文档",
         "icon": "reco-message",
         "items": [
           {
@@ -42,7 +42,7 @@ module.exports = {
         ]
       },
       {
-        "text": "Contact",
+        "text": "関纡莪",
         "icon": "reco-message",
         "items": [
           {
@@ -90,7 +90,7 @@ module.exports = {
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
-    "author": "",
+    "author": "董同学",
     "authorAvatar": "/avatar.png",
     "record": "xxxx",
     "startYear": "2017"
