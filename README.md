@@ -2,14 +2,15 @@
 home: true
 heroText: 正是修行时。
 tagline: It is practicing.
-heroImage: /background.jpeg
+# 首页图片
+# heroImage: /background.jpeg
 heroImageStyle: {
-  maxWidth: '600px',
-  width: '100%',
-  display: block,
-  margin: '9rem auto 2rem',
-  background: '#fff',
-  borderRadius: '1rem',
+  # maxWidth: '600px',
+  # width: '100%',
+  # display: block,
+  # margin: '9rem auto 2rem',
+  # background: '#fff',
+  # borderRadius: '1rem',
   # maxHeight: '200px',
   # display: block,
   # margin: '6rem auto 1.5rem',
