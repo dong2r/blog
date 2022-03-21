@@ -7,7 +7,8 @@ module.exports = {
       "link",
       {
         "rel": "icon",
-        "href": "/favicon.ico"
+        // "href": "/favicon.ico"
+        "href": "/img.jpeg"
       }
     ],
     [
@@ -25,6 +26,8 @@ module.exports = {
       }
     },
   "themeConfig": {
+    // 侧边栏
+    subSidebar: 'auto',
     // 评论插件
     valineConfig: {
       appId: 'fM5yTY4veBeTkW5QazJGEjOa-gzGzoHsz',// your appId
