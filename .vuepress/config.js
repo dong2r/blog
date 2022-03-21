@@ -85,6 +85,15 @@ module.exports = {
             "link": "https://imgtu.com/"
           },
           {
+            "text": "markdown排版",
+            "link": "https://editor.mdnice.com/"
+          },
+          {
+            // 在线Cron表达式生成器
+            "text": "Cron表达式",
+            "link": "https://qqe2.com/cron"
+          }
+          {
             "text": "科学上网",
             "link": "https://gitee.com/zeng-chaofan/awesome-vpn?_from=gitee_search"
           }

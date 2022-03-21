@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: 正是修行时。
-tagline: It is practicing.
+heroText: Dong's Blog
+tagline: 董同学の博客
 # 首页图片
 # heroImage: /background.jpeg
 heroImageStyle: {
