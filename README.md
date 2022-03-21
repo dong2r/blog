@@ -10,17 +10,17 @@ heroImageStyle: {
   # margin: '9rem auto 2rem',
   # background: '#fff',
   # borderRadius: '1rem',
-  maxHeight: '200px',
-  display: block,
-  margin: '6rem auto 1.5rem',
+  # maxHeight: '200px',
+  # display: block,
+  # margin: '6rem auto 1.5rem',
   # 中间图片 圆形 or方形100%
-  borderRadius: '15%', 
-  boxShadow: '0 5px 18px rgba(0,0,0,0.2)'
+  # borderRadius: '15%', 
+  # boxShadow: '0 5px 18px rgba(0,0,0,0.2)'
 }
 bgImageStyle: {
   height: '450px'
 }
-isShowTitleInHome: false
+isShowTitleInHome: true
 actionText: Guide
 actionLink: /views/other/guide
 features:

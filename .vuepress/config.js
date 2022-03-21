@@ -138,10 +138,14 @@ module.exports = {
     },
     "friendLink": [
       {
-        "title": "dog",
+        "title": "me",
         "desc": "Enjoy when you can, and endure when you must.",
         "email": "dongrui23@163.com",
         "link": "https://github.com/dong2r"
+      },
+      {
+        "title": "君哥",
+        "link": "https://www.it235.com/"
       }
     ],
     "logo": "/me.jpeg",
