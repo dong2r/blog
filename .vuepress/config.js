@@ -94,6 +94,14 @@ module.exports = {
             "link": "https://qqe2.com/cron"
           },
           {
+            "text":"热搜摸🐟",
+            "link":"https://tophub.today/"
+          },
+          {
+            "text":"影视搜索",
+            "link":"https://video.bqrdh.com/"
+          },
+          {
             "text": "科学上网",
             "link": "https://gitee.com/zeng-chaofan/awesome-vpn?_from=gitee_search"
           }
