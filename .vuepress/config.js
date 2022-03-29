@@ -102,6 +102,10 @@ module.exports = {
             "link":"https://video.bqrdh.com/"
           },
           {
+            "text":"ya网飞",
+            "link":"https://yanetflix.com/"
+          },
+          {
             "text": "科学上网",
             "link": "https://gitee.com/zeng-chaofan/awesome-vpn?_from=gitee_search"
           }
