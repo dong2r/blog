@@ -37,7 +37,7 @@ module.exports = {
      * 
      * default 'tomorrow'
      */
-    codeTheme: 'tomorrow',
+    codeTheme: 'solarizedlight',
     // 侧边栏
     subSidebar: 'auto',
     // 评论插件
