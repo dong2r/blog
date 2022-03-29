@@ -91,7 +91,7 @@ module.exports = {
           {
             // 在线Cron表达式生成器
             "text": "Cron表达式",
-            "link": "https://qqe2.com/cron"
+            "link": "https://www.bejson.com/othertools/cron/"
           },
           {
             "text":"热搜摸🐟",
