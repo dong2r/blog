@@ -26,6 +26,18 @@ module.exports = {
       }
     },
   "themeConfig": {
+    /**
+     * 代码主题
+     * support for
+     * 'default'
+     * 'funky'
+     * 'okaidia'
+     * 'solarizedlight'
+     * 'tomorrow'
+     * 
+     * default 'tomorrow'
+     */
+    codeTheme: 'tomorrow',
     // 侧边栏
     subSidebar: 'auto',
     // 评论插件
