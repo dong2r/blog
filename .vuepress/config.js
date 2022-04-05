@@ -65,6 +65,11 @@ module.exports = {
             "link": "https://pdf.io/"
           },
           {
+            // https://staging-cn.vuejs.org/guide/introduction.html
+            "text": "Vue",
+            "link": "https://staging-cn.vuejs.org/guide/introduction.html"
+          },
+          {
             "text": "动漫",
             "link": "https://www.agefans.cc/"
           },
@@ -179,7 +184,12 @@ module.exports = {
       {
         "title": "君哥",
         "link": "https://www.it235.com/"
-      }
+      },
+      // https://programmer-yili.github.io/yili-music-doc/
+      {
+        "title": "伊力",
+        "link": "https://programmer-yili.github.io/yili-music-doc/"
+      },
     ],
     "logo": "/me.jpeg",
     "search": true,
