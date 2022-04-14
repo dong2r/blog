@@ -101,6 +101,11 @@ module.exports = {
             "text": "转在线img",
             "link": "https://imgtu.com/"
           },
+          // https://thisissand.com/
+          {
+            "text": "画⛰️",
+            "link": "https://thisissand.com/"
+          },
           {
             "text": "markdown排版",
             "link": "https://editor.mdnice.com/"
