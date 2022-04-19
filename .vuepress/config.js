@@ -106,6 +106,11 @@ module.exports = {
             "text": "画⛰️",
             "link": "https://thisissand.com/"
           },
+          // https://www.processon.com/diagrams
+          {
+            "text": "在线流程图",
+            "link": "https://www.processon.com/diagrams"
+          },
           {
             "text": "markdown排版",
             "link": "https://editor.mdnice.com/"
