@@ -129,6 +129,10 @@ module.exports = {
             "link":"https://video.bqrdh.com/"
           },
           {
+            "text":"AI搜索",
+            "link":"https://magi.com/"
+          },
+          {
             "text":"ya网飞",
             "link":"https://yanetflix.com/"
           },
