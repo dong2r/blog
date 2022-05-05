@@ -124,6 +124,11 @@ module.exports = {
             "text":"热搜摸🐟",
             "link":"https://tophub.today/"
           },
+          // http://dyxs11.com/
+          {
+            "text":"电影先生",
+            "link":"http://dyxs11.com/"
+          },
           {
             "text":"影视搜索",
             "link":"https://video.bqrdh.com/"
