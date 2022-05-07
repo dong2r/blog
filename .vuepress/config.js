@@ -138,10 +138,7 @@ module.exports = {
             "link":"https://magi.com/"
           },
           // https://www.r2coding.com/#/README
-          {
-            "text":"r2coding自学",
-            "link":"https://www.r2coding.com/#/README"
-          },
+          // https://javaguide.cn/
           {
             "text":"ya网飞",
             "link":"https://yanetflix.com/"
@@ -214,6 +211,14 @@ module.exports = {
         "title": "伊力",
         "link": "https://programmer-yili.github.io/yili-music-doc/"
       },
+      {
+        "title":"羊哥",
+        "link":"https://www.r2coding.com/#/README"
+      },
+      {
+        "title":"guide哥",
+        "link":"https://javaguide.cn/"
+      }
     ],
     "logo": "/me.jpeg",
     "search": true,
