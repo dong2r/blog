@@ -137,6 +137,11 @@ module.exports = {
             "text":"AI搜索",
             "link":"https://magi.com/"
           },
+          // https://www.r2coding.com/#/README
+          {
+            "text":"r2coding自学",
+            "link":"https://www.r2coding.com/#/README"
+          },
           {
             "text":"ya网飞",
             "link":"https://yanetflix.com/"
